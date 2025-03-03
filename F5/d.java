@@ -1,0 +1,7 @@
+package F5;
+
+public abstract class d {
+
+    /* renamed from: a  reason: collision with root package name */
+    public static final int[] f1590a = {2130968697, 2130968698, 2130968699, 2130969045, 2130969046, 2130969384, 2130969543, 2130969544, 2130969547, 2130969551, 2130969800, 2130969801, 2130969837, 2130969838};
+}
